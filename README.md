@@ -1,6 +1,6 @@
 ### Hi there, I'm Jerin John K. 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/jerinjohnk)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jerinjohnk)
 [![StackOverflow Badge](https://img.shields.io/badge/Stack%20Overflow-F48224?style=flat-square&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/story/jerinjohnk)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@jerinjohnk)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/jerinjohnk)
